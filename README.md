@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Atharva Pilankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm currently pursuing a B.Tech in Computer Science from Vellore Institute of Technology Chennai. I'm passionate about web development and applying core CS concepts to create innovative products that solve real-world problems and provide value to users. With my skills in programming languages, frameworks, and software engineering principles, I'm confident that I can design and develop efficient and scalable web applications that meet the needs of today's digital world. I'm excited to continue learning and growing in this field, and I look forward to exploring new opportunities to apply my knowledge and skills.</h3>
 
 - 🔭I have worked on [Cake-Shop Website](https://github.com/atharvapilankar/cake-Shop)
 
